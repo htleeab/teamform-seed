@@ -260,7 +260,6 @@ angular.module('teamform-admin-app', ['firebase'])
                             })
                             for (i = 0; i < $scope.waitList.length;) {
                                 //console.log("forEach: " + ppl + "\n uid:" + ppl.$id + "\n preference: " + ppl.preference + "\nteam id: " + teamid + "\n preference: " + team.preference);
-
                                 ppl = $scope.waitList[i];
                                 console.log("teamname: " + team.teamName + "\nname:" + ppl.name + "\ni= " + i + "\nlength:" + $scope.waitList.length);
                                 if ($scope.users.$getRecord(ppl.uid).teams[eventid].role == "member") i++;
@@ -297,6 +296,11 @@ angular.module('teamform-admin-app', ['firebase'])
                     console.log("all current teams have enough member\nwaitlist length: " + $scope.waitList.length + "\nadd remaining waiting ppl to team until the remaining can form team their own");
                     while (!$scope.isValid($scope.waitList.length, min, max)) {
                         //number of waitlist cannot form team by their own, fill some waitlist member to teamsEnough(but not full)
+                         if ($scope.users.$getRecord($scope.waitList[0].uid).teams[eventid].role == "member"){
+                            // setTimeout(delete $scope.waitList[0],0);
+                            $scope.waitList.splice(0,0);
+                            console.log("delete!");
+                        }
                         console.log("add " + $scope.waitList[0].name + " to best fit team");
                         var bestFit = 0;
                         angular.forEach($scope.teamsEnough, function (team, teamid) {
@@ -322,8 +326,8 @@ angular.module('teamform-admin-app', ['firebase'])
                     //form new teams
                     while ($scope.waitList.length != 0 && $scope.waitList.length >= min) {
                         console.log("create team");
-                        //     //form one team with most popular preference with min members
-                        //     //search best fit preference
+                            //form one team with most popular preference with min members
+                            //search best fit preference
                         var preferenceMatch = {};
                         angular.forEach($scope.waitList, function (ppl, index) {
                             angular.forEach(ppl.preference, function (pre, preIndex) {
@@ -358,7 +362,9 @@ angular.module('teamform-admin-app', ['firebase'])
                                     if (ppl.gpa > highestGpa) {
                                         highestGpa = ppl.gpa;
                                     }
-                                    $scope.putMemberToTeams(ppl, teamObject, newTeamid);
+                                    setTimeout($scope.putMemberToTeams(ppl, teamObject, newTeamid),0);
+                                    console.log("index: "+index);
+                                    index +=1;
                                 } else {
                                     index = index + 1;
                                 }
@@ -389,9 +395,7 @@ angular.module('teamform-admin-app', ['firebase'])
                                 console.log(member.uid + " become leader");
                                 teamObject.teamLeader = member.memberID;
                                 teamObject.teamLeaderName = member.memberName;
-
                                 $scope.users.$getRecord(teamObject.teamLeader).teams[eventid].role = "leader";
-
                                 console.log(teamObject.teamLeader);
                                 teamObject.members.splice(index, 1);
                                 keepGoing = false;
@@ -409,7 +413,12 @@ angular.module('teamform-admin-app', ['firebase'])
                     //put remaining ppl into teams
                     while ($scope.waitList.length != 0) {
                         //number of waitlist cannot form team by their own, fill some waitlist member to teamsEnough(but not full)
-                        console.log("add " + $scope.waitList[0].name + " to best fit team");
+                         if ($scope.users.$getRecord($scope.waitList[0].uid).teams[eventid].role == "member"){
+                            // setTimeout(delete $scope.waitList[0],0);
+                            $scope.waitList.splice(0,0);
+                            console.log("delete!");
+                        }
+                        console.log("add " + $scope.waitList[0] + " to best fit team");
                         var bestFit = 0;
                         angular.forEach($scope.teamsEnough, function (team, teamid) {
                             if ($scope.matchPreference(team.preference, $scope.waitList[0].preference) > bestFit) {
@@ -458,6 +467,8 @@ angular.module('teamform-admin-app', ['firebase'])
         }
 
         $scope.putMemberToTeams = function (ppl, team, teamid) {
+            //  if ($scope.users.$getRecord($scope.waitList[0].uid).teams[eventid].role == "member")return;
+            //  if ($scope.waitList[0].role == "member")return;
             team.members.push({ "memberID": ppl.uid, "gpa": ppl.gpa, "memberName": ppl.name, "newAdded": true });
             console.log("put member " + ppl.name + " to team " + team.teamName + "\nteamid: " + teamid + "\nnewAdded:" + true);
             ppl.role = "member";
