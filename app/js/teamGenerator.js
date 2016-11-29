@@ -453,9 +453,8 @@ angular.module('teamform-admin-app', ['firebase'])
         }
 
         $scope.putMemberToTeams = function (ppl, team, teamid) {
-            console.log("put member " + ppl.uid + " to team " + team.teamName + "\nteamid: " + teamid);
             team.members.push({ "memberID": ppl.uid, "gpa": ppl.gpa, "memberName": ppl.name , "newAdded" :true});
-
+            console.log("put member " + ppl.name + " to team " + team.teamName + "\nteamid: " + teamid+"\nnewAdded:"+true);
             ppl.role = "member";
             ppl.team = teamid;
             // console.log("member role: " + ppl.role + "\nteamid: " + ppl.team);
@@ -599,8 +598,8 @@ angular.module('teamform-admin-app', ['firebase'])
                 currentUserData.$loaded()
                     .then(function (data) {
                         $scope.username = currentUserData.name;
-                        var load_screen = document.getElementById("load_screen");
-                        document.body.removeChild(load_screen);
+                        // var load_screen = document.getElementById("load_screen");
+                        // document.body.removeChild(load_screen);
                     })
                     .catch(function (error) {
                         console.error("Error: " + error);
