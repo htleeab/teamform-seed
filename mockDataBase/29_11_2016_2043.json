@@ -1,0 +1,1228 @@
+{
+  "events" : {
+    "-KXj6Ql7fYXgl_vtR7qB" : {
+      "admin" : {
+        "param" : {
+          "admin" : "520ZgNUoU2gN3MJUPdS3Oikehmc2",
+          "deadline" : "2016-12-09T08:05:12.656Z",
+          "description" : "Come and join us!!",
+          "eventName" : "Mobile app design",
+          "maxTeamSize" : 10,
+          "minTeamSize" : 1
+        }
+      },
+      "teams" : {
+        "-KXjR4xn7AQDcJrTg8PK" : {
+          "members" : [ {
+            "memberID" : "N6jRMhC2cdSZ3qczunEZ93TIPnN2"
+          } ],
+          "preference" : [ "C++" ],
+          "preferredTeamSize" : 2,
+          "teamDescription" : "Jud.",
+          "teamLeader" : "nEGjz5THKncRdVTcxZwOO9xzS3b2",
+          "teamName" : "Jud."
+        }
+      },
+      "waitlist" : {
+        "-KXjRU2sFY9DXyeaK-l9" : {
+          "uid" : "N6jRMhC2cdSZ3qczunEZ93TIPnN2"
+        }
+      }
+    },
+    "-KXj70Key6df6qCNa9QM" : {
+      "admin" : {
+        "param" : {
+          "admin" : "N6jRMhC2cdSZ3qczunEZ93TIPnN2",
+          "deadline" : "2016-12-29T08:07:46.357Z",
+          "description" : "Walkthrough the History!",
+          "eventName" : "Testament",
+          "maxTeamSize" : 100,
+          "minTeamSize" : 1
+        }
+      }
+    },
+    "-KXj71CN_s1WTF-eRPFI" : {
+      "admin" : {
+        "param" : {
+          "admin" : "gJxorurNjhcKV4oLJ65970QNrdC2",
+          "deadline" : "2016-12-31T08:07:50.033Z",
+          "description" : "For Comp 3111 project!!",
+          "eventName" : "Comp 3111 project",
+          "maxTeamSize" : 8,
+          "minTeamSize" : 1
+        }
+      },
+      "teams" : {
+        "-KXjQBUzlAQc07MAKWdi" : {
+          "preference" : [ "Tes." ],
+          "preferredTeamSize" : 3,
+          "teamDescription" : "Tes.",
+          "teamLeader" : "N6jRMhC2cdSZ3qczunEZ93TIPnN2",
+          "teamName" : "Tes."
+        }
+      },
+      "waitlist" : {
+        "-KXjVbY_JREGedjVW2pF" : {
+          "uid" : "qiS3MAUjTMRm8xHkms1dFmTQZsV2"
+        }
+      }
+    },
+    "-KXj73fIB5F1TMlQzJgn" : {
+      "admin" : {
+        "param" : {
+          "admin" : "hJPQem65vOMtw8wWTqnDJuoBFnQ2",
+          "deadline" : "2016-11-29T09:19:40.108Z",
+          "description" : "I need a bigger home.",
+          "eventName" : "Expanding Disneyland",
+          "maxTeamSize" : 10,
+          "minTeamSize" : 3
+        }
+      }
+    },
+    "-KXj7PcyH79YET80HH0d" : {
+      "admin" : {
+        "param" : {
+          "admin" : "ZWzTgPVEn1ZzM7V85Wq9fPKf6Oh2",
+          "deadline" : "2016-12-16T08:09:30.024Z",
+          "description" : "Website design is fun!",
+          "eventName" : "Website Design",
+          "maxTeamSize" : 6,
+          "minTeamSize" : 1
+        }
+      },
+      "announcements" : {
+        "-KXj7rFpI3NIo61npUEQ" : {
+          "date" : "2016-11-29T08:11:24.899Z",
+          "text" : "welcome!"
+        },
+        "-KXj7u4C1kteTTgnFVRp" : {
+          "date" : "2016-11-29T08:11:36.443Z",
+          "text" : "deadline is coming!!"
+        }
+      },
+      "teams" : {
+        "-KXj8rap9o_9XP4ZXAe7" : {
+          "members" : [ {
+            "memberID" : "qiS3MAUjTMRm8xHkms1dFmTQZsV2"
+          } ],
+          "preference" : [ "C++" ],
+          "preferredTeamSize" : 5,
+          "requestMemberList" : [ {
+            "memberID" : "520ZgNUoU2gN3MJUPdS3Oikehmc2"
+          }, {
+            "memberID" : "piMPI4yNdAhbx4HyS1rZW9mQdfD2"
+          }, {
+            "memberID" : "AKukW8KRYYNPGvxJm1yLGNkj3HH3"
+          } ],
+          "teamDescription" : "Teapot is A+ team. All members will get A+.",
+          "teamLeader" : "xPqdsunFkNN1Cz5WDWwlZJ7QsYe2",
+          "teamName" : "Teapot"
+        },
+        "-KXj9R9dixanJYp5nQn-" : {
+          "members" : [ {
+            "memberID" : "nOwxPZ0yrqTw7TVob4cemfIkbmm1"
+          } ],
+          "preferredTeamSize" : 1,
+          "requestMemberList" : [ {
+            "memberID" : "520ZgNUoU2gN3MJUPdS3Oikehmc2"
+          }, {
+            "memberID" : "AKukW8KRYYNPGvxJm1yLGNkj3HH3"
+          } ],
+          "teamDescription" : "team size =?",
+          "teamLeader" : "W4HuNlRnylM6oGfhmWFnEMp2Ewh2",
+          "teamName" : "test"
+        }
+      },
+      "waitlist" : {
+        "-KXj9WT9mIX0cGDbLHmE" : {
+          "uid" : "hJPQem65vOMtw8wWTqnDJuoBFnQ2"
+        },
+        "-KXjAhBAoRKEbA_9_l-r" : {
+          "uid" : "piMPI4yNdAhbx4HyS1rZW9mQdfD2"
+        },
+        "-KXjCCRT-2-42IYAoJfj" : {
+          "uid" : "aKASfwqh4nQw6xgDX2ggh4BQh3C2"
+        }
+      }
+    },
+    "-KXj8Mdpb8ojTYunaW3o" : {
+      "admin" : {
+        "param" : {
+          "admin" : "bGvIO31kQQSVCs6gbR6LEBS58Dn2",
+          "deadline" : "2016-11-13T08:13:40.039Z",
+          "description" : "Comp 3111 midterm revision.",
+          "eventName" : "Comp 3111 midterm revision",
+          "maxTeamSize" : 14,
+          "minTeamSize" : 1
+        }
+      }
+    },
+    "-KXj8swR7zFtWWB4UIfx" : {
+      "admin" : {
+        "param" : {
+          "admin" : "nEGjz5THKncRdVTcxZwOO9xzS3b2",
+          "deadline" : "2020-06-20T08:15:56.300Z",
+          "description" : "Fight Testament",
+          "eventName" : "Judgment",
+          "maxTeamSize" : 10,
+          "minTeamSize" : 1
+        }
+      },
+      "teams" : {
+        "-KXjDHbtVRsnqvdNsT_I" : {
+          "preference" : [ "Java" ],
+          "preferredTeamSize" : 6,
+          "teamDescription" : "The best team",
+          "teamLeader" : "hJPQem65vOMtw8wWTqnDJuoBFnQ2",
+          "teamName" : "Number One"
+        },
+        "-KXjTch48YuZ3AUxn-26" : {
+          "members" : [ {
+            "memberID" : "32ZySu8SsjThsiqafU947A9Dwcg1"
+          } ],
+          "preference" : [ "C++" ],
+          "preferredTeamSize" : 5,
+          "teamDescription" : "judgment",
+          "teamLeader" : "o9PDwW4yS6b3qQqfTNz9J1kEU9Z2",
+          "teamName" : "Jud."
+        }
+      }
+    },
+    "-KXj9onuFULmt3wVagKH" : {
+      "admin" : {
+        "param" : {
+          "admin" : "1oCLX6cTKdY0IljIivdyEC7G1Uw1",
+          "deadline" : "2016-11-29T08:20:01.487Z",
+          "description" : "Learn GitHup together!",
+          "eventName" : "Learn GitHup",
+          "maxTeamSize" : 9,
+          "minTeamSize" : 1
+        }
+      }
+    },
+    "-KXj9wvUwXghgTH-vBMB" : {
+      "admin" : {
+        "param" : {
+          "admin" : "piMPI4yNdAhbx4HyS1rZW9mQdfD2",
+          "deadline" : "2017-01-12T08:20:34.884Z",
+          "description" : "Class Trial Time!",
+          "eventName" : "Danganronpa V3",
+          "maxTeamSize" : 16,
+          "minTeamSize" : 16
+        }
+      },
+      "waitlist" : {
+        "-KXjIfGr_TBR3cdl_KZk" : {
+          "uid" : "hJPQem65vOMtw8wWTqnDJuoBFnQ2"
+        }
+      }
+    },
+    "-KXjDwulyAd5p9QURaoX" : {
+      "admin" : {
+        "param" : {
+          "admin" : "W4HuNlRnylM6oGfhmWFnEMp2Ewh2",
+          "deadline" : "2016-11-29T12:40:56.534Z",
+          "description" : "This is team form for real generator.",
+          "eventName" : "generator",
+          "maxTeamSize" : 6,
+          "minTeamSize" : 5
+        }
+      },
+      "announcements" : {
+        "-KXjEILgHOQ1sXjUN0fO" : {
+          "date" : "2016-11-29T08:39:34.821Z",
+          "text" : "plz create and join teams!"
+        }
+      },
+      "teams" : {
+        "-KXjFf-3u51MtNq0Sn1m" : {
+          "members" : [ {
+            "memberID" : "hGegEVPVdHQabK7FVdB37Emnf2Q2"
+          }, {
+            "memberID" : "hJPQem65vOMtw8wWTqnDJuoBFnQ2"
+          } ],
+          "preference" : [ "C++", "Java" ],
+          "preferredTeamSize" : 5,
+          "teamDescription" : "I love boy's love",
+          "teamLeader" : "akOt5Y5RjSZSC9HFDg4mGneOLiD2",
+          "teamName" : "BL"
+        },
+        "-KXjHYzVzWN81BXS2OyU" : {
+          "invitelist" : {
+            "mv3eUlzd9vX6DN9oy6KxhHMl7BQ2" : {
+              "language" : [ "LOVE" ],
+              "name" : "game@love.com"
+            }
+          },
+          "members" : [ {
+            "memberID" : "dz3xJxAN6oWwJ6jA0GWyrujthv42"
+          }, {
+            "memberID" : "xqFNh0HBMlRLj5qIKzIdICd42Iz2"
+          }, {
+            "memberID" : "3oUZXxZ9BOZcltk1Mos0sQRstoL2"
+          } ],
+          "preference" : [ "C++" ],
+          "preferredTeamSize" : 5,
+          "teamDescription" : "I love myself",
+          "teamLeader" : "XFMjiMlvDoffGYStUsCqbZgNMQ53",
+          "teamName" : "Christie"
+        },
+        "-KXjLmLIg1SfNtySPyeb" : {
+          "members" : [ {
+            "memberID" : "Rv5BxySpcgMBtNkFekTK3QzTsrK2"
+          }, {
+            "memberID" : "5rA2ecC1JsNsUppY9GXvYnAVGzF3"
+          }, {
+            "memberID" : "PeKyfmjhIjhQ4cI0hMcWOc2Hgz83"
+          }, {
+            "memberID" : "PeKyfmjhIjhQ4cI0hMcWOc2Hgz83"
+          }, {
+            "memberID" : "0gaEoQkRv2gDvcOLLHLT8nQ3MRs1"
+          } ],
+          "preference" : [ "C#" ],
+          "preferredTeamSize" : 5,
+          "teamDescription" : "KO Team A!",
+          "teamLeader" : "uV5bJE6eIhWqGKuqEmCPmmkoQRz2",
+          "teamName" : "Team G"
+        },
+        "-KXjMB0gP3Tdd_AFglqb" : {
+          "members" : [ {
+            "memberID" : "VTQHmToJvkZo4SZ8ENwXSPXm3dP2"
+          }, {
+            "memberID" : "jdpMnog86wbvZHaXk1esugbrdNO2"
+          } ],
+          "preference" : [ "angularJS" ],
+          "preferredTeamSize" : 5,
+          "requestMemberList" : [ {
+            "memberID" : "Sp8YI7FJUjbiRaWabSDVj7AjZeL2"
+          } ],
+          "teamDescription" : "Methods and tools for planning, designing, implementing, validating, and maintaining large software systems. Project work to build a software system as a team, using appropriate software engineering tools and techniques.",
+          "teamLeader" : "0YG4tqum0vfsfDbVebl07j6O3I73",
+          "teamName" : "COMP3111"
+        },
+        "-KXjNZQBHLcSq2qvNUNV" : {
+          "members" : [ {
+            "memberID" : "4rtV8RhxyVYK5bh9wcmioDO3yc62"
+          }, {
+            "memberID" : "jwSf8l1YCuZB6U2aQYeZjjav3fc2"
+          }, {
+            "memberID" : "kpNbYq7RO9QSx35B7M66TAuLbeC2"
+          } ],
+          "preference" : [ "NWP" ],
+          "preferredTeamSize" : 6,
+          "requestMemberList" : [ {
+            "memberID" : "jwSf8l1YCuZB6U2aQYeZjjav3fc2",
+            "name" : "Komaeda Nagito"
+          } ],
+          "teamDescription" : "Despair!",
+          "teamLeader" : "piMPI4yNdAhbx4HyS1rZW9mQdfD2",
+          "teamName" : "DGRP"
+        }
+      },
+      "waitlist" : {
+        "-KXjFAv-0TZ2KSoAfs_b" : {
+          "uid" : "xPqdsunFkNN1Cz5WDWwlZJ7QsYe2"
+        },
+        "-KXjFB_UQxZYljcNDH9l" : {
+          "uid" : "gJxorurNjhcKV4oLJ65970QNrdC2"
+        },
+        "-KXjFCsk7reG52PhXdah" : {
+          "uid" : "520ZgNUoU2gN3MJUPdS3Oikehmc2"
+        },
+        "-KXjK7neZOwkZVZqvqbF" : {
+          "uid" : "mv3eUlzd9vX6DN9oy6KxhHMl7BQ2"
+        },
+        "-KXjO0le4bvThD4uC9K-" : {
+          "uid" : "o7PdeBIk8FPDHEkFfcodE3RhFm03"
+        },
+        "-KXjOOklaUWQ2sfZQQI8" : {
+          "uid" : "m7Mn1sDcUicn2PNqHPpK3vQ5NAJ2"
+        },
+        "-KXjUY1w46NVZ_zTWzas" : {
+          "uid" : "bGvIO31kQQSVCs6gbR6LEBS58Dn2"
+        },
+        "-KXjU_vTEU78O4utYObj" : {
+          "uid" : "kH47mV0ijfb47qGfJedlpIV7GOX2"
+        },
+        "-KXjVlMPr1q2F1QNJuO4" : {
+          "uid" : "ZQ8Cbu65KJRT2saRWnLaFo8nPXE2"
+        },
+        "-KXjVlXJNVBJmx4wPCF2" : {
+          "uid" : "qiS3MAUjTMRm8xHkms1dFmTQZsV2"
+        }
+      }
+    }
+  },
+  "users" : {
+    "0YG4tqum0vfsfDbVebl07j6O3I73" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "Kim Sung",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "leader",
+          "teamid" : "-KXjMB0gP3Tdd_AFglqb"
+        }
+      },
+      "test" : "never change"
+    },
+    "0gaEoQkRv2gDvcOLLHLT8nQ3MRs1" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "student C",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjLmLIg1SfNtySPyeb"
+        }
+      },
+      "test" : "never change"
+    },
+    "1oCLX6cTKdY0IljIivdyEC7G1Uw1" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "Mary",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj8Mdpb8ojTYunaW3o" : {
+          "role" : "null"
+        },
+        "-KXj9onuFULmt3wVagKH" : {
+          "role" : "admin"
+        }
+      },
+      "test" : "never change"
+    },
+    "32ZySu8SsjThsiqafU947A9Dwcg1" : {
+      "description" : "I am student C",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "Student C",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj8swR7zFtWWB4UIfx" : {
+          "isJoin" : true,
+          "role" : "member",
+          "teamid" : "-KXjTch48YuZ3AUxn-26"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "member",
+          "teamid" : "-KXjFSEbEiIArHgDA89o"
+        }
+      },
+      "test" : "never change"
+    },
+    "3oUZXxZ9BOZcltk1Mos0sQRstoL2" : {
+      "description" : "zvsvsfvs",
+      "gpa" : 3,
+      "language" : [ "Excel" ],
+      "name" : "Helloo",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjHYzVzWN81BXS2OyU"
+        }
+      },
+      "test" : "never change"
+    },
+    "4rtV8RhxyVYK5bh9wcmioDO3yc62" : {
+      "description" : "Ultimate Hope",
+      "gpa" : 3,
+      "language" : [ "NWP" ],
+      "name" : "Naegi Makoto",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "member",
+          "teamid" : "-KXjNZQBHLcSq2qvNUNV"
+        }
+      },
+      "test" : "never change"
+    },
+    "520ZgNUoU2gN3MJUPdS3Oikehmc2" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "C++", "Java" ],
+      "name" : "Wong Mike",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj6Ql7fYXgl_vtR7qB" : {
+          "role" : "admin"
+        },
+        "-KXj7PcyH79YET80HH0d" : {
+          "role" : "null"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true
+        }
+      },
+      "test" : "never change"
+    },
+    "5rA2ecC1JsNsUppY9GXvYnAVGzF3" : {
+      "description" : "I am Student J",
+      "gpa" : 3,
+      "language" : [ "G//" ],
+      "name" : "Student J",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjLmLIg1SfNtySPyeb"
+        }
+      },
+      "test" : "never change"
+    },
+    "69mZP3teUiO2OkkqtAgTjmzwiYp2" : {
+      "description" : "I am Student G",
+      "gpa" : 3,
+      "language" : [ "G++" ],
+      "name" : "Student G",
+      "team" : [ "null" ],
+      "test" : "never change"
+    },
+    "9A0ojcDL1hYl2bp3fIq3lgmej9i2" : {
+      "description" : "I am the best.",
+      "gpa" : 4,
+      "language" : [ "C++" ],
+      "name" : "Cindy",
+      "team" : [ "null" ],
+      "test" : "never change"
+    },
+    "A0l4mZdZ2dU6F383nDd6w79U5wd2" : {
+      "description" : "aaaaa",
+      "gpa" : 3,
+      "language" : [ "C++", "LOVE" ],
+      "name" : "a@3511.com",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "null"
+        }
+      },
+      "test" : "never change"
+    },
+    "AKukW8KRYYNPGvxJm1yLGNkj3HH3" : {
+      "description" : "I am good.",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "tom",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj7PcyH79YET80HH0d" : {
+          "role" : "null"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false
+        }
+      },
+      "test" : "never change"
+    },
+    "BJ3BQekD1APqNqtxIO1Sqndf0ZA2" : {
+      "description" : "I am student E",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "Student E",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjFSEbEiIArHgDA89o"
+        }
+      },
+      "test" : "never change"
+    },
+    "D2lWqjAXM6Okp3kwWmzc5Y9kFfx1" : {
+      "teams" : {
+        "-KXj6Ql7fYXgl_vtR7qB" : {
+          "role" : "null"
+        },
+        "-KXj7PcyH79YET80HH0d" : {
+          "role" : "null"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "null"
+        }
+      }
+    },
+    "N6jRMhC2cdSZ3qczunEZ93TIPnN2" : {
+      "description" : "Tes.",
+      "gpa" : 4.3,
+      "language" : [ "C++" ],
+      "name" : "Testament",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj6Ql7fYXgl_vtR7qB" : {
+          "isJoin" : true,
+          "role" : "member",
+          "teamid" : "-KXjR4xn7AQDcJrTg8PK"
+        },
+        "-KXj70Key6df6qCNa9QM" : {
+          "role" : "admin"
+        },
+        "-KXj71CN_s1WTF-eRPFI" : {
+          "isJoin" : false,
+          "role" : "leader",
+          "teamid" : "-KXjQBUzlAQc07MAKWdi"
+        }
+      },
+      "test" : "never change"
+    },
+    "PeKyfmjhIjhQ4cI0hMcWOc2Hgz83" : {
+      "description" : "I am Student K",
+      "gpa" : 3,
+      "language" : [ "G//" ],
+      "name" : "Student K",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjLmLIg1SfNtySPyeb"
+        }
+      },
+      "test" : "never change"
+    },
+    "QpcuQU5bHMP7b4ZnpIZLSkIJy2D2" : {
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "wongmikec30@gmail.com",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj7PcyH79YET80HH0d" : {
+          "role" : "null"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false
+        }
+      },
+      "test" : "never change"
+    },
+    "Rv5BxySpcgMBtNkFekTK3QzTsrK2" : {
+      "description" : "I am Student H",
+      "gpa" : 3,
+      "language" : [ "G//" ],
+      "name" : "Student H",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "member",
+          "teamid" : "-KXjLmLIg1SfNtySPyeb"
+        }
+      },
+      "test" : "never change"
+    },
+    "Sp8YI7FJUjbiRaWabSDVj7AjZeL2" : {
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "hyyuab@connect.ust.hk",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false
+        }
+      },
+      "test" : "never change"
+    },
+    "TmlMAByv5FXCMnEfC2GeXMF58LJ2" : {
+      "description" : "I am Student A",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "Student A",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false,
+          "role" : "leader",
+          "teamid" : "-KXjFSEbEiIArHgDA89o"
+        }
+      },
+      "test" : "never change"
+    },
+    "VTQHmToJvkZo4SZ8ENwXSPXm3dP2" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "angular JS" ],
+      "name" : "Peter",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjMB0gP3Tdd_AFglqb"
+        }
+      },
+      "test" : "never change"
+    },
+    "Vs6LoH7enLY3WeSq2Uq1CT70T5E3" : {
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "studentl@gmail.com",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "null"
+        }
+      },
+      "test" : "never change"
+    },
+    "W4HuNlRnylM6oGfhmWFnEMp2Ewh2" : {
+      "description" : "",
+      "gpa" : 4.3,
+      "language" : [ "C++", "A++" ],
+      "name" : "admin",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj7PcyH79YET80HH0d" : {
+          "role" : "leader",
+          "teamid" : "-KXj9R9dixanJYp5nQn-"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "admin"
+        }
+      },
+      "test" : "never change"
+    },
+    "XFMjiMlvDoffGYStUsCqbZgNMQ53" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "christie",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "leader",
+          "teamid" : "-KXjHYzVzWN81BXS2OyU"
+        }
+      },
+      "test" : "never change"
+    },
+    "YaEnY4ViObXgWSsTPaj8zmhrxYH2" : {
+      "description" : "wetreg",
+      "gpa" : 3,
+      "language" : [ "LOVE" ],
+      "name" : "c@a.com",
+      "team" : [ "null" ],
+      "test" : "never change"
+    },
+    "ZQ8Cbu65KJRT2saRWnLaFo8nPXE2" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "angular JS" ],
+      "name" : "Ken Cheung",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "null"
+        }
+      },
+      "test" : "never change"
+    },
+    "ZWzTgPVEn1ZzM7V85Wq9fPKf6Oh2" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "C++", "C#" ],
+      "name" : "EricYu",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj7PcyH79YET80HH0d" : {
+          "role" : "admin"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false
+        }
+      },
+      "test" : "never change"
+    },
+    "aKASfwqh4nQw6xgDX2ggh4BQh3C2" : {
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "lovesung@cse.ust.hk",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj6Ql7fYXgl_vtR7qB" : {
+          "role" : "null"
+        },
+        "-KXj7PcyH79YET80HH0d" : {
+          "isJoin" : true,
+          "role" : "null"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false
+        }
+      },
+      "test" : "never change"
+    },
+    "akOt5Y5RjSZSC9HFDg4mGneOLiD2" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "C++", "LOVE" ],
+      "name" : "hehe",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "leader",
+          "teamid" : "-KXjFf-3u51MtNq0Sn1m"
+        }
+      },
+      "test" : "never change"
+    },
+    "bGvIO31kQQSVCs6gbR6LEBS58Dn2" : {
+      "description" : "",
+      "gpa" : 4,
+      "language" : [ "C++", "Java" ],
+      "name" : "Tony Chan",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj8Mdpb8ojTYunaW3o" : {
+          "role" : "admin"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true
+        }
+      },
+      "test" : "never change"
+    },
+    "c5RmgCEtpQWtyAa94A3QZ6FqfmE2" : {
+      "description" : "I am Student F",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "Student F",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjFSEbEiIArHgDA89o"
+        }
+      },
+      "test" : "never change"
+    },
+    "dz3xJxAN6oWwJ6jA0GWyrujthv42" : {
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "christietse@gmail.com",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjHYzVzWN81BXS2OyU"
+        }
+      },
+      "test" : "never change"
+    },
+    "gJxorurNjhcKV4oLJ65970QNrdC2" : {
+      "description" : "",
+      "gpa" : 4.3,
+      "language" : [ "C++" ],
+      "name" : "Love!Sung",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj71CN_s1WTF-eRPFI" : {
+          "role" : "admin"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true
+        }
+      },
+      "test" : "never change"
+    },
+    "gfDBMwvrVCc2Wc9MGc5vipfruut1" : {
+      "description" : "I am Student I",
+      "gpa" : 3,
+      "language" : [ "G//" ],
+      "name" : "Student I",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "null"
+        }
+      },
+      "test" : "never change"
+    },
+    "hGegEVPVdHQabK7FVdB37Emnf2Q2" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "forever alone",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjFf-3u51MtNq0Sn1m"
+        }
+      },
+      "test" : "never change"
+    },
+    "hJPQem65vOMtw8wWTqnDJuoBFnQ2" : {
+      "description" : "I live in disneyland.",
+      "gpa" : 2.2,
+      "language" : [ "C++" ],
+      "name" : "Mickey Mouse",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj6Ql7fYXgl_vtR7qB" : {
+          "role" : "null"
+        },
+        "-KXj71CN_s1WTF-eRPFI" : {
+          "role" : "null"
+        },
+        "-KXj73fIB5F1TMlQzJgn" : {
+          "role" : "admin"
+        },
+        "-KXj7PcyH79YET80HH0d" : {
+          "isJoin" : true,
+          "role" : "null"
+        },
+        "-KXj8Mdpb8ojTYunaW3o" : {
+          "role" : "null"
+        },
+        "-KXj8swR7zFtWWB4UIfx" : {
+          "role" : "leader",
+          "teamid" : "-KXjDHbtVRsnqvdNsT_I"
+        },
+        "-KXj9onuFULmt3wVagKH" : {
+          "role" : "null"
+        },
+        "-KXj9wvUwXghgTH-vBMB" : {
+          "isJoin" : true
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false
+        }
+      },
+      "test" : "never change"
+    },
+    "ixC9Sk63vlVjprR4daNlhBY2vc12" : {
+      "description" : "I am student D",
+      "gpa" : 3,
+      "language" : [ "C++", "D++" ],
+      "name" : "Student D",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "member",
+          "teamid" : "-KXjFSEbEiIArHgDA89o"
+        }
+      },
+      "test" : "never change"
+    },
+    "j7CmmYVtOOShaLvklkxKHyvJsA73" : {
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "freerider@connect.com",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false
+        }
+      },
+      "test" : "never change"
+    },
+    "jdpMnog86wbvZHaXk1esugbrdNO2" : {
+      "description" : "dgbreh4th54y4",
+      "gpa" : 3,
+      "language" : [ "angular JS" ],
+      "name" : "shiheng@cse.ust.hk",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjMB0gP3Tdd_AFglqb"
+        }
+      },
+      "test" : "never change"
+    },
+    "jwSf8l1YCuZB6U2aQYeZjjav3fc2" : {
+      "description" : "Ultimate Luck",
+      "gpa" : 3,
+      "language" : [ "NWP" ],
+      "name" : "Komaeda Nagito",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjNZQBHLcSq2qvNUNV"
+        }
+      },
+      "test" : "never change"
+    },
+    "kH47mV0ijfb47qGfJedlpIV7GOX2" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "ensemble star",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "null"
+        }
+      },
+      "test" : "never change"
+    },
+    "kpNbYq7RO9QSx35B7M66TAuLbeC2" : {
+      "description" : "Prepare School",
+      "gpa" : 3,
+      "language" : [ "NWP" ],
+      "name" : "Hinata Hajime",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "member",
+          "teamid" : "-KXjNZQBHLcSq2qvNUNV"
+        }
+      },
+      "test" : "never change"
+    },
+    "m7Mn1sDcUicn2PNqHPpK3vQ5NAJ2" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "angular JS" ],
+      "name" : "Xiaodong Gu",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "null"
+        }
+      },
+      "test" : "never change"
+    },
+    "mv3eUlzd9vX6DN9oy6KxhHMl7BQ2" : {
+      "description" : "",
+      "gpa" : 3,
+      "invitelist" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "-KXjHYzVzWN81BXS2OyU" : {
+            "teamName" : "Christie"
+          }
+        }
+      },
+      "language" : [ "LOVE" ],
+      "name" : "game@love.com",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "null"
+        }
+      },
+      "test" : "never change"
+    },
+    "nEGjz5THKncRdVTcxZwOO9xzS3b2" : {
+      "description" : "Jud.",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "Judgment",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj6Ql7fYXgl_vtR7qB" : {
+          "isJoin" : false,
+          "role" : "leader",
+          "teamid" : "-KXjR4xn7AQDcJrTg8PK"
+        },
+        "-KXj8swR7zFtWWB4UIfx" : {
+          "role" : "admin"
+        },
+        "-KXj9wvUwXghgTH-vBMB" : {
+          "role" : "null"
+        }
+      },
+      "test" : "never change"
+    },
+    "nOwxPZ0yrqTw7TVob4cemfIkbmm1" : {
+      "description" : "",
+      "gpa" : 3.3,
+      "language" : [ "C++" ],
+      "name" : "admin follower",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj7PcyH79YET80HH0d" : {
+          "role" : "member",
+          "teamid" : "-KXj9R9dixanJYp5nQn-"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false
+        }
+      },
+      "test" : "never change"
+    },
+    "o7PdeBIk8FPDHEkFfcodE3RhFm03" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "angular JS" ],
+      "name" : "JASON WONG",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "null"
+        }
+      },
+      "test" : "never change"
+    },
+    "o9PDwW4yS6b3qQqfTNz9J1kEU9Z2" : {
+      "description" : "I am student B",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "Student B",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj7PcyH79YET80HH0d" : {
+          "role" : "null"
+        },
+        "-KXj8swR7zFtWWB4UIfx" : {
+          "isJoin" : false,
+          "role" : "leader",
+          "teamid" : "-KXjTch48YuZ3AUxn-26"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true,
+          "role" : "member",
+          "teamid" : "-KXjFSEbEiIArHgDA89o"
+        }
+      },
+      "test" : "never change"
+    },
+    "pLqPDElnJRdY2eHcAcc8nqsf36m1" : {
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "mike@gmail.com",
+      "team" : [ "null" ],
+      "test" : "never change"
+    },
+    "piMPI4yNdAhbx4HyS1rZW9mQdfD2" : {
+      "description" : "Principal of Hope's Peak School",
+      "gpa" : 4.3,
+      "language" : [ "Pascal", "MIPS", "Python", "NWP" ],
+      "name" : "Mono Kuma",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj7PcyH79YET80HH0d" : {
+          "isJoin" : true,
+          "role" : "null"
+        },
+        "-KXj9wvUwXghgTH-vBMB" : {
+          "role" : "admin"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false,
+          "role" : "leader",
+          "teamid" : "-KXjNZQBHLcSq2qvNUNV"
+        }
+      },
+      "test" : "never change"
+    },
+    "qiS3MAUjTMRm8xHkms1dFmTQZsV2" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "Mike II",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj70Key6df6qCNa9QM" : {
+          "role" : "null"
+        },
+        "-KXj71CN_s1WTF-eRPFI" : {
+          "isJoin" : true,
+          "role" : "null"
+        },
+        "-KXj7PcyH79YET80HH0d" : {
+          "isJoin" : true,
+          "role" : "member",
+          "teamid" : "-KXj8rap9o_9XP4ZXAe7"
+        },
+        "-KXj8swR7zFtWWB4UIfx" : {
+          "role" : "null"
+        },
+        "-KXj9onuFULmt3wVagKH" : {
+          "role" : "null"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true
+        }
+      },
+      "test" : "never change"
+    },
+    "re6ABa4d0ST5a7PxnAoF0Jyo2q83" : {
+      "description" : "",
+      "gpa" : 3,
+      "language" : [ "angular JS" ],
+      "name" : "Mijung Kim",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "null"
+        }
+      },
+      "test" : "never change"
+    },
+    "srxfnMSpnjY62ib43sVR5ffwxFz1" : {
+      "description" : "I am student H",
+      "gpa" : 3,
+      "language" : [ "G++" ],
+      "name" : "Student H",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false
+        }
+      },
+      "test" : "never change"
+    },
+    "uV5bJE6eIhWqGKuqEmCPmmkoQRz2" : {
+      "description" : "I am Student G",
+      "gpa" : 3,
+      "language" : [ "G//" ],
+      "name" : "Student G",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : false,
+          "role" : "leader",
+          "teamid" : "-KXjLmLIg1SfNtySPyeb"
+        }
+      },
+      "test" : "never change"
+    },
+    "xPqdsunFkNN1Cz5WDWwlZJ7QsYe2" : {
+      "description" : "I am the best team leader.",
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "vivian",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXj7PcyH79YET80HH0d" : {
+          "role" : "leader",
+          "teamid" : "-KXj8rap9o_9XP4ZXAe7"
+        },
+        "-KXjDwulyAd5p9QURaoX" : {
+          "isJoin" : true
+        }
+      },
+      "test" : "never change"
+    },
+    "xqFNh0HBMlRLj5qIKzIdICd42Iz2" : {
+      "gpa" : 3,
+      "language" : [ "C++" ],
+      "name" : "ct@gmail.com",
+      "team" : [ "null" ],
+      "teams" : {
+        "-KXjDwulyAd5p9QURaoX" : {
+          "role" : "member",
+          "teamid" : "-KXjHYzVzWN81BXS2OyU"
+        }
+      },
+      "test" : "never change"
+    }
+  }
+}

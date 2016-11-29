@@ -260,7 +260,12 @@ angular.module('teamform-admin-app', ['firebase'])
                             })
                             for (i = 0; i < $scope.waitList.length;) {
                                 //console.log("forEach: " + ppl + "\n uid:" + ppl.$id + "\n preference: " + ppl.preference + "\nteam id: " + teamid + "\n preference: " + team.preference);
+
                                 ppl = $scope.waitList[i];
+                                console.log("teamname: " + team.teamName + "\nname:" + ppl.name + "\ni= " + i + "\nlength:" + $scope.waitList.length);
+                                if ($scope.users.$getRecord(ppl.uid).teams[eventid].role == "member") i++;
+                                ppl = $scope.waitList[i];
+                                console.log(ppl.name + "\ni= " + i);
                                 if (team.members.length + 1 < min) {
                                     if ($scope.matchPreference(ppl.preference, team.preference) == bestFit) {
                                         $scope.putMemberToTeams(ppl, team, teamid);
@@ -397,7 +402,7 @@ angular.module('teamform-admin-app', ['firebase'])
                         $scope.teamsEnough[newTeamid] = teamObject;
                         console.log("craete new team " + $scope.teamsEnough[newTeamid].teamName);
                         if (teamObject.members.length + 1 == max) {
-                            $scope.teamsFull[newTeamid] = team;
+                            $scope.teamsFull[newTeamid] = teamObject;
                             delete $scope.teamsEnough[newTeamid];
                         }
                     }//end of create new enough team
@@ -453,8 +458,8 @@ angular.module('teamform-admin-app', ['firebase'])
         }
 
         $scope.putMemberToTeams = function (ppl, team, teamid) {
-            team.members.push({ "memberID": ppl.uid, "gpa": ppl.gpa, "memberName": ppl.name , "newAdded" :true});
-            console.log("put member " + ppl.name + " to team " + team.teamName + "\nteamid: " + teamid+"\nnewAdded:"+true);
+            team.members.push({ "memberID": ppl.uid, "gpa": ppl.gpa, "memberName": ppl.name, "newAdded": true });
+            console.log("put member " + ppl.name + " to team " + team.teamName + "\nteamid: " + teamid + "\nnewAdded:" + true);
             ppl.role = "member";
             ppl.team = teamid;
             // console.log("member role: " + ppl.role + "\nteamid: " + ppl.team);
@@ -549,10 +554,12 @@ angular.module('teamform-admin-app', ['firebase'])
                 var leaderKey = $scope.waitList.push({ "uid": team.teamLeader }).key;
                 $scope.waitList[leaderKey] = { "uid": team.teamLeader };
                 setTimeout($scope.getUserDatabyID($scope.waitList[leaderKey]), 0);
+                $scope.waitList[leaderKey].role = "null";
                 // $scope.waitList.add({ "uid": team.teamLeader });
                 angular.forEach(team.members, function (member, index) {
                     var memberKey = $scope.waitList.push({ "uid": member.memberID }).key;
                     setTimeout($scope.getUserDatabyID($scope.waitList[memberKey]), 0);
+                    $scope.waitList[memberKey].role = "null";
                 })
             }
             //second, del all data of this team
